@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\EdsonDona\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE63EAB-96D4-4763-8590-D67F007C8401}|EdsonDona.csproj|c:\\users\\admin\\documents\\my games\\terraria\\tmodloader\\modsources\\edsondona\\items\\edsondona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE63EAB-96D4-4763-8590-D67F007C8401}|EdsonDona.csproj|solutionrelative:items\\edsondona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE63EAB-96D4-4763-8590-D67F007C8401}|EdsonDona.csproj|c:\\users\\admin\\documents\\my games\\terraria\\tmodloader\\modsources\\edsondona\\items\\edsondona.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{CBE63EAB-96D4-4763-8590-D67F007C8401}|EdsonDona.csproj|solutionrelative:items\\edsondona.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EdsonDona.png",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\EdsonDona\\Items\\EdsonDona.png",
+              "RelativeDocumentMoniker": "Items\\EdsonDona.png",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\EdsonDona\\Items\\EdsonDona.png",
+              "RelativeToolTip": "Items\\EdsonDona.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-13T00:30:39.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EdsonDona.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\EdsonDona\\Items\\EdsonDona.cs",
+              "RelativeDocumentMoniker": "Items\\EdsonDona.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\EdsonDona\\Items\\EdsonDona.cs",
+              "RelativeToolTip": "Items\\EdsonDona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T23:23:14.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
